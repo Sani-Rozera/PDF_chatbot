@@ -57,6 +57,9 @@ python -m streamlit run app.py
 
 Through this project, I learned how LangChain, RAG, embeddings, FAISS, and Gemini API work together to build a PDF question-answering chatbot.
 
+You can access this by using the following link: https://pdfchatbot-bdbtsrkjuhvpne2374ycsu.streamlit.app/
+
 ## Author
 
 Sani Devi
+
